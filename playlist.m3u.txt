@@ -1,0 +1,12 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="L1MAXFHD" tvg-name="L1 MAX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Liga_1_Max_logo.png/320px-Liga_1_Max_logo.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",L1 MAX FHD
+https://la14hd.com/vivo/canal.php?stream=liga1max
+
+#EXTINF:-1 tvg-id="AmericaTVFHD" tvg-name="AMERICA TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/América_Televisión_2021_logo.svg/320px-América_Televisión_2021_logo.svg.png" group-title="Entretenimiento" tvg-country="PE" tvg-language="es",AMERICA TV FHD
+https://live-evg1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LatinaFHD" tvg-name="LATINA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Latina_Television_logo_2023.svg/320px-Latina_Television_logo_2023.svg.png" group-title="Entretenimiento" tvg-country="PE" tvg-language="es",LATINA FHD
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+
+
